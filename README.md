@@ -1,5 +1,12 @@
 ## Olá! 👋
+Sou Alexandre, em transição da hotelaria para a área de programação. Atualmente estudo no DevClub, com foco em HTML, CSS, JavaScript, e em breve React.js e Node.js.
 
+Sou organizado, comprometido e tenho facilidade em resolver problemas — habilidades que trago da minha experiência anterior como recepcionista. Estou em busca de oportunidades para aplicar meus conhecimentos em projetos reais e crescer como desenvolvedor web.
+
+📧 alexandresilva.02101978@gmail.com
+📱 (48) 99122-0643 | 98851-4375
+<br>
+<br>
 <!--
 **AlexandreSilva78/AlexandreSilva78** é um repositório ✨ _especial_ ✨ porque seu `README.md` (este arquivo) aparece no seu perfil do GitHub.
 
@@ -14,3 +21,6 @@ Aqui estão algumas ideias para você começar:
 - 😄 Pronomes: ...
 - ⚡ Curiosidade: ...
 -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexandreSilva78&show_icons=true&theme=radical)
+
+![AlexandreSilva78](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreSilva78&langs_count=8)
