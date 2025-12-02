@@ -1,9 +1,14 @@
-## Olá! 👋
-Sou Alexandre, em transição da hotelaria para a área de programação. 
-Atualmente estudo no DevClub, com foco em HTML, CSS, JavaScript, React.js e Node.js e em breve TypeScript.
 
-Sou organizado, comprometido e tenho facilidade em resolver problemas — habilidades que trago da minha experiência anterior como recepcionista. 
-Estou em busca de oportunidades para aplicar meus conhecimentos em projetos reais e crescer como desenvolvedor web.
+  <img src= "https://avatars.githubusercontent.com/u/217425217?v=4" alt="whatsapp" width="100"/>
+ <div style="display: flex; align-items: center;">
+  <h1> ## Olá! 👋</h1>
+  <br>
+  Sou Alexandre, em transição da hotelaria para a área de programação. 
+  Atualmente estudo no DevClub, com foco em HTML, CSS, JavaScript, React.js e Node.js e em breve TypeScript.
+  
+  Sou organizado, comprometido e tenho facilidade em resolver problemas — habilidades que trago da minha experiência anterior como recepcionista. 
+  Estou em busca de oportunidades para aplicar meus conhecimentos em projetos reais e crescer como desenvolvedor web.
+</div>
 <div style="display: flex; align-items: center;">
   <img src= "https://img.cdndsgni.com/preview/10000484.jpg" alt="whatsapp" width="20"> +55 (48) 98851-4375 </img>
 </div>   
