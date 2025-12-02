@@ -97,16 +97,10 @@ Estou em busca de oportunidades para aplicar meus conhecimentos em projetos reai
 <details>
 <summary>Clique para ver os links</summary>
 
-*   [Link 1](exemplo.com)
-*   [Link 2](exemplo.com)
-*   [Link 3](exemplo.com)
-*   [Link 4](exemplo.com)
-*   [Link 5](exemplo.com)
-*   [Link 6](exemplo.com)
-*   [Link 7](exemplo.com)
-*   [Link 8](exemplo.com)
-*   [Link 9](exemplo.com)
-*   [Link 10](exemplo.com0)
+*   [Link 1](Projeto-15.Cadastro-de-usuarios )
+*   [Link 2](projeto-responsivo-easy-shopping-via-mobile)
+*   [Link 3](projeto-responsivo-we-care )
+*   [Link 4](projeto-responsivo-site-localizacao-de-ampla-cobertura )
 
 </details>
 <!--
