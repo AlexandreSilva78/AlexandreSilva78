@@ -1,8 +1,8 @@
 
-  <img src= "https://avatars.githubusercontent.com/u/217425217?v=4" alt="whatsapp" width="100"/>
  <div style="display: flex; align-items: center;">
+  <img src= "https://avatars.githubusercontent.com/u/217425217?v=4" alt="whatsapp" width="100"/>
   <h1> ## Olá! 👋</h1>
-   
+  <div/> 
 <div style="display: flex; aling-itens: "center;">
 
   <br>
