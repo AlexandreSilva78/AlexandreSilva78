@@ -3,7 +3,7 @@
  <div style="display: flex; align-items: center;">
   <h1> ## Olá! 👋</h1>
    
-<div aling="center">
+<div style="display: flex; aling-itens: "center;">
 
   <br>
   Sou Alexandre, em transição da hotelaria para a área de programação. 
