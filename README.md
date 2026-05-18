@@ -2,6 +2,9 @@
   <img src= "https://avatars.githubusercontent.com/u/217425217?v=4" alt="whatsapp" width="100"/>
  <div style="display: flex; align-items: center;">
   <h1> ## Olá! 👋</h1>
+   
+<div aling="center">
+
   <br>
   Sou Alexandre, em transição da hotelaria para a área de programação. 
   Atualmente estudo no DevClub, com foco em HTML, CSS, JavaScript, React.js e Node.js e em breve TypeScript.
@@ -108,6 +111,8 @@
 *   [Link 4](projeto-responsivo-site-localizacao-de-ampla-cobertura )
 
 </details>
+
+</div>
 <!--
 **AlexandreSilva78/AlexandreSilva78** é um repositório ✨ _especial_ ✨ porque seu `README.md` (este arquivo) aparece no seu perfil do GitHub.
 
