@@ -41,64 +41,65 @@
 <div style="display: flex; align-items: center; justify-content: center;">
   <div style="display: flex; align-items: center;">
     - [Jo-Ken-Pô](https://alexandresilva78.github.io/Jogo-JoKemP-/)
-      <br>
-      <br>
       <img src= "https://github.com/AlexandreSilva78/Jogo-JoKemP-/blob/main/img/jokempo-notebook.png" alt="Link github jogo jokempô" width="350">
     </div>
+   <br>
+   <br>
     <div style="display: flex; align-items: center;">
     - [Jogo Phantom Skies B2 Spirit Edition](https://alexandresilva78.github.io/Phantom-Skies-B2-Spirit-Edition/)
-        <br>
-        <br>
         <img src= "https://github.com/AlexandreSilva78/Phantom-Skies-B2-Spirit-Edition/blob/main/assets/img/Jogo-Phantom-Skies-B2-Spirit-Edition-Notebook.png" alt="Link github Jogo Phantom Skies B2 Spirit Edition" width="350">
-    </div>
+    </div> 
+   <br>
+   <br>
   <div style="display: flex; align-items: center;">
     - [Sistema de Sorteio Online](https://alexandresilva78.github.io/Projeto-8.Sistema-de-Sorteio/)
-    <br>
-        <br>
         <img src= "https://github.com/AlexandreSilva78/Projeto-8.Sistema-de-Sorteio/blob/main/assets/sorteio-noebook-descktop.png" alt="Link github Sistema de Sorteio" width="350">
     </div>
+   <br>
+   <br>
   <div style="display: flex; align-items: center;">
     - [Conversor de valores](https://alexandresilva78.github.io/Projeto-7.Conversor-de-valores/)
-    <br>
-        <br>
         <img src= "https://github.com/AlexandreSilva78/Projeto-7.Conversor-de-valores/blob/main/assets/notebook.png" alt="Link github Conversor de valores" width="350">
     </div>
+   <br>
+   <br>
   <div style="display: flex; align-items: center;">
     - [Nike Clone]([URL_do_GitHub_Pages_3](https://alexandresilva78.github.io/Projeto1-Nike/))
-    <br>
-        <br>
         <img src= "https://github.com/AlexandreSilva78/Projeto1-Nike/blob/main/img/Clone%20layout%20Nike%20smartphones%20adaptado.png" alt="Link github Nike Clone" width="350">
     </div>
+   <br>
+   <br>
   <div style="display: flex; align-items: center;">
     - [Clone da Netflix](https://alexandresilva78.github.io/Projeto3.Netflix/)
-    <br>
-        <br>
-        <img src= "https://github.com/AlexandreSilva78/Projeto3.Netflix/blob/main/assets/Clone%20layout%20netflix%20notebook%20adaptada.png" alt="Link github Clone da Netflix" width="350">
+        <img src="https://github.com/AlexandreSilva78/Projeto3.Netflix/blob/main/assets/Clone%20layout%20netflix%20notebook%20adaptada.png" 
+         alt="Link github Clone da Netflix" width="350">
     </div>
+   <br>
+   <br>
   <div style="display: flex; align-items: center;">
     - [Mario & Luigi - Encanadores Especializados](https://alexandresilva78.github.io/Projeto-12.SuperMarioBros/)
-    <br>
-        <br>
         <img src= "https://github.com/AlexandreSilva78/Projeto-12.SuperMarioBros/blob/main/assets/img/iphone-mario-code-responsive.png" alt="Link github Mario & Luigi - Encanadores Especializados" width="350">
     </div>
+ <br>
+ <br>
   <div style="display: flex; align-items: center;">
-    - [Play Movies - Plataforma de Streaming]
-    <br>
-        <br>
+    - [Play Movies - Plataforma de Streaming](https://alexandresilva78.github.io/Projeto-13.streaming-project/)
         <img src= "https://github.com/AlexandreSilva78/Projeto-13.streaming-project/blob/main/src/assets/img/ChatGPT%20Image%2011_10_2025%2C%2023_14_59.png" alt="Link github Plataforma de Streaming" width="350">
     </div>
+   <br>
+   <br>
   <div style="display: flex; align-items: center;">
     - [Starbucks](https://alexandresilva78.github.io/Projeto-11.Starbucks/)
-    <br>
-        <br>
         <img src= "https://github.com/AlexandreSilva78/Projeto-11.Starbucks/blob/main/assets/img/projeto-starbucks-notebook-preto.png" alt="Link github Starbucks" width="350">
     </div>
+   <br>
+   <br>
   <div style="display: flex; align-items: center;">
     - [Maxímus Burger - Menu de Lanches](https://alexandresilva78.github.io/Projeto-10.Menu-Lanches/)
-    <br>
-        <br>
         <img src= "https://github.com/AlexandreSilva78/Projeto-10.Menu-Lanches/blob/main/assets/img/hamburgueria-menu-tablet.png" alt="Link github Menu de Lanches" width="350">
-    </div>
+    </div> 
+   <br>
+   <br>
 </div>
   <br>
   <br>
