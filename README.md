@@ -40,63 +40,80 @@
 ## Meus Projetos GitHub Pages
 <div style="display: flex; align-items: center; justify-content: center;">
   <div style="display: flex; align-items: center;">
-    - [Jo-Ken-Pô](https://alexandresilva78.github.io/Jogo-JoKemP-/)
       <img src= "https://github.com/AlexandreSilva78/Jogo-JoKemP-/blob/main/img/jokempo-notebook.png" alt="Link github jogo jokempô" width="350">
+   <br>
+    - [Jo-Ken-Pô](https://alexandresilva78.github.io/Jogo-JoKemP-/)
     </div>
    <br>
    <br>
     <div style="display: flex; align-items: center;">
-    - [Jogo Phantom Skies B2 Spirit Edition](https://alexandresilva78.github.io/Phantom-Skies-B2-Spirit-Edition/)
         <img src= "https://github.com/AlexandreSilva78/Phantom-Skies-B2-Spirit-Edition/blob/main/assets/img/Jogo-Phantom-Skies-B2-Spirit-Edition-Notebook.png" alt="Link github Jogo Phantom Skies B2 Spirit Edition" width="350">
+   <br>
+    - [Jogo Phantom Skies B2 Spirit Edition](https://alexandresilva78.github.io/Phantom-Skies-B2-Spirit-Edition/)
     </div> 
    <br>
    <br>
   <div style="display: flex; align-items: center;">
-    - [Sistema de Sorteio Online](https://alexandresilva78.github.io/Projeto-8.Sistema-de-Sorteio/)
         <img src= "https://github.com/AlexandreSilva78/Projeto-8.Sistema-de-Sorteio/blob/main/assets/sorteio-noebook-descktop.png" alt="Link github Sistema de Sorteio" width="350">
+   <br>
+    - [Sistema de Sorteio Online](https://alexandresilva78.github.io/Projeto-8.Sistema-de-Sorteio/)
     </div>
    <br>
    <br>
   <div style="display: flex; align-items: center;">
-    - [Conversor de valores](https://alexandresilva78.github.io/Projeto-7.Conversor-de-valores/)
         <img src= "https://github.com/AlexandreSilva78/Projeto-7.Conversor-de-valores/blob/main/assets/notebook.png" alt="Link github Conversor de valores" width="350">
+   <br>
+    - [Conversor de valores](https://alexandresilva78.github.io/Projeto-7.Conversor-de-valores/)
     </div>
    <br>
    <br>
   <div style="display: flex; align-items: center;">
-    - [Nike Clone]([URL_do_GitHub_Pages_3](https://alexandresilva78.github.io/Projeto1-Nike/))
         <img src= "https://github.com/AlexandreSilva78/Projeto1-Nike/blob/main/img/Clone%20layout%20Nike%20smartphones%20adaptado.png" alt="Link github Nike Clone" width="350">
+   <br>
+    - [Nike Clone]([URL_do_GitHub_Pages_3](https://alexandresilva78.github.io/Projeto1-Nike/))
     </div>
    <br>
    <br>
   <div style="display: flex; align-items: center;">
-    - [Clone da Netflix](https://alexandresilva78.github.io/Projeto3.Netflix/)
         <img src="https://github.com/AlexandreSilva78/Projeto3.Netflix/blob/main/assets/Clone%20layout%20netflix%20notebook%20adaptada.png" 
          alt="Link github Clone da Netflix" width="350">
+   <br>
+    - [Clone da Netflix](https://alexandresilva78.github.io/Projeto3.Netflix/)
     </div>
    <br>
    <br>
   <div style="display: flex; align-items: center;">
-    - [Mario & Luigi - Encanadores Especializados](https://alexandresilva78.github.io/Projeto-12.SuperMarioBros/)
         <img src= "https://github.com/AlexandreSilva78/Projeto-12.SuperMarioBros/blob/main/assets/img/iphone-mario-code-responsive.png" alt="Link github Mario & Luigi - Encanadores Especializados" width="350">
+   <br>
+    - [Mario & Luigi - Encanadores Especializados](https://alexandresilva78.github.io/Projeto-12.SuperMarioBros/)
     </div>
  <br>
  <br>
   <div style="display: flex; align-items: center;">
-    - [Play Movies - Plataforma de Streaming](https://alexandresilva78.github.io/Projeto-13.streaming-project/)
         <img src= "https://github.com/AlexandreSilva78/Projeto-13.streaming-project/blob/main/src/assets/img/ChatGPT%20Image%2011_10_2025%2C%2023_14_59.png" alt="Link github Plataforma de Streaming" width="350">
+   <br>
+    - [Play Movies - Plataforma de Streaming](https://alexandresilva78.github.io/Projeto-13.streaming-project/)
     </div>
    <br>
    <br>
   <div style="display: flex; align-items: center;">
-    - [Starbucks](https://alexandresilva78.github.io/Projeto-11.Starbucks/)
         <img src= "https://github.com/AlexandreSilva78/Projeto-11.Starbucks/blob/main/assets/img/projeto-starbucks-notebook-preto.png" alt="Link github Starbucks" width="350">
+   <br>
+    - [Starbucks](https://alexandresilva78.github.io/Projeto-11.Starbucks/)
     </div>
    <br>
    <br>
   <div style="display: flex; align-items: center;">
-    - [Maxímus Burger - Menu de Lanches](https://alexandresilva78.github.io/Projeto-10.Menu-Lanches/)
         <img src= "https://github.com/AlexandreSilva78/Projeto-10.Menu-Lanches/blob/main/assets/img/hamburgueria-menu-tablet.png" alt="Link github Menu de Lanches" width="350">
+   <br>
+    - [Maxímus Burger - Menu de Lanches](https://alexandresilva78.github.io/Projeto-10.Menu-Lanches/)
+    </div> 
+   <br>
+   <br>
+  <div style="display: flex; align-items: center;">
+        <img src= "https://github.com/AlexandreSilva78/Projeto-14.Hamburgueria.React/blob/main/src/assets/img/areas-pagamento-pedido-nova-categoria.png" alt="Link github Hamburgueria React" width="350">
+   <br>
+    - [Maxímus Burger - Menu de Lanches](https://alexandresilva78.github.io/Projeto-14.Hamburgueria.React/)
     </div> 
    <br>
    <br>
@@ -106,10 +123,10 @@
 <details>
 <summary>Clique para ver os links</summary>
 
-*   [Link 1](Projeto-15.Cadastro-de-usuarios )
-*   [Link 2](projeto-responsivo-easy-shopping-via-mobile)
-*   [Link 3](projeto-responsivo-we-care )
-*   [Link 4](projeto-responsivo-site-localizacao-de-ampla-cobertura )
+*   [Cadastr de Usuários](Projeto-15.Cadastro-de-usuarios )
+*   [Shopping Via Mobile](projeto-responsivo-easy-shopping-via-mobile)
+*   [Responsive](projeto-responsivo-we-care )
+*   [Localização De Ampla cobertura](projeto-responsivo-site-localizacao-de-ampla-cobertura )
 
 </details>
 
