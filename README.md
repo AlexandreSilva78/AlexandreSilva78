@@ -23,7 +23,7 @@
 </div>
 <br>
 <div style="display: flex; align-items: center;">
-  <img src= "https://icon-icons.com/download-file?file=https%3A%2F%2Fimages.icon-icons.com%2F171%2FPNG%2F512%2Femail_blue_23344.png&id=21824&pack_or_individual=pack" alt="Endereço de email" width="20"> alexandresilva.desenvolvedorweb@gmail.com 
+  <img src= "https://icon-icons.com/download-file?file=https%3A%2F%2Fimages.icon-icons.com%2F171%2FPNG%2F512%2Femail_blue_23344.png&id=21824&pack_or_individual=pack" alt="Endereço de email" width="20"> <a href="mailto:seu-email@exemplo.com">alexandresilva.desenvolvedorweb@gmail.com</a> 
   </img>
 </div>
 <br>
@@ -33,7 +33,7 @@
 </div>
 <br>
 <div style="display: flex; align-items: center;">
-  <img src= "https://img.icons8.com/p1em/1200/github.jpg" alt="Link github" width="20"> https://github.com/AlexandreSilva78
+  <img src= "https://img.icons8.com/p1em/1200/github.jpg" alt="Link github" width="20"> https://alexandresilva78.github.io/Portifolio/
   </img>
 </div>
 <br>
