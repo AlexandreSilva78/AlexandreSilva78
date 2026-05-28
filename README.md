@@ -1,6 +1,6 @@
 
  <div align="center">
-  <img src= "https://avatars.githubusercontent.com/u/217425217?v=4" alt="whatsapp" width="100"/>
+  <img src= "https://github.com/AlexandreSilva78/AlexandreSilva78/blob/main/perfil-desenvolvedor-web%20(1).png" alt="whatsapp" width="500"/>
   <h1> ## Olá! 👋</h1>
   <div/> 
 <div align="center">
