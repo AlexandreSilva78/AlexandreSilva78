@@ -13,7 +13,9 @@
   Estou em busca de oportunidades para aplicar meus conhecimentos em projetos reais e crescer como desenvolvedor web.
 </div>
 <div style="display: flex; align-items: center;">
-  <img src= "https://img.cdndsgni.com/preview/10000484.jpg" alt="whatsapp" width="20"> +55 (48) 98851-4375 </img>
+  <img src= "https://img.cdndsgni.com/preview/10000484.jpg" alt="whatsapp" width="20"><a href="https://wa.me/5548988514375" target="_blank" rel="noopener noreferrer">
+    +55 (48) 98851-4375
+</a>  </img>
 </div>   
 <br>
 <br>
