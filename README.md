@@ -1,9 +1,9 @@
 
- <div style="display: flex; align-items: center;">
+ <div align="center">
   <img src= "https://avatars.githubusercontent.com/u/217425217?v=4" alt="whatsapp" width="100"/>
   <h1> ## Olá! 👋</h1>
   <div/> 
-<div style="display: flex; aling-itens: "center;">
+<div align="center">
 
   <br>
   Sou Alexandre, em transição da hotelaria para a área de programação. 
@@ -37,7 +37,7 @@
   </img>
 </div>
 <br>
-<div style="display: flex; align-items: center; justify-content: center;">
+<div align="center">
    <br>
    <h1>Meus Projetos GitHub Pages</h1>
 <div>
